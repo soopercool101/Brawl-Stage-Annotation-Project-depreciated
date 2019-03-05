@@ -13,8 +13,8 @@ There are some minor bugfixes and changes from the original vBrawl stages beyond
 These are all made to increase customizability and provide better bases. They should not affect gameplay in any way.
 In the interest of transparency, here are all the edits made thus far:
 
-Global Changes:
+## Global Changes:
 - All stages have had their compression algorithm changed from LZ77 to ExtendedLZ77. This decreases their filesize.
 
-75m:
+## 75m:
 - Changed the texture filtering on the StgDonkey_Score_800 model in ModelData[10] from Linear to Nearest (Now matches the rest of the stage correctly)
