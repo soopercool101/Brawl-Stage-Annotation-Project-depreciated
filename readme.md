@@ -5,7 +5,7 @@ Want to know which base stage would work best for you? [Use this document!](http
 Have questions, want more stage documentation, or want to join the project? [Join our Discord!](https://discord.gg/s7c8763)
 
 The Annotated Stage Project aims to combine all known stage knowledge in an easy-to-read format to increase ease of stage modding in Brawl.
-The project adds in MSBIN documentation for every "special" ModelData as well as other useful stage components.
+The project adds in MSBIN documentation for every "special" Model Data as well as other useful stage components.
 
 There are currently two ends of the Annotated Stage Project, each with slightly different goals.
 
