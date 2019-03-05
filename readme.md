@@ -1,4 +1,4 @@
- Stage Annotation Project
+# Stage Annotation Project
 
 Want to know which base stage would work best for you? [Use this document!](https://drive.google.com/open?id=1NYoHjmyNmERtXhjMqux2Sm3084MP88qHceoEOceykkA)
 
